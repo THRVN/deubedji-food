@@ -13,6 +13,8 @@
 
 ### 🎯 Objectif de la session
 [Étape 0.1] Initialisation du projet
+[Étape 0.2] Créer les fichiers de suivi
+[Étape 0.3] Créer l'arborescence vide
 
 ### ✅ Ce qui a été fait
 - Action 1 complétée
