@@ -223,13 +223,13 @@ git reset nom-du-fichier.ext
 
 Avant de passer à la Phase 1, vérifie que tu as bien :
 
-- [ ] Créé le dossier `deubedji-food/`
-- [ ] Initialisé Git (`git init`)
-- [ ] Créé `.gitignore`
-- [ ] Fait 3 commits (config, suivi, structure)
-- [ ] Tous les dossiers créés (css/, js/, assets/, data/)
-- [ ] Tous les fichiers vides créés
-- [ ] (Optionnel) Projet connecté à GitHub
+- [X] Créé le dossier `deubedji-food/`
+- [X] Initialisé Git (`git init`)
+- [X] Créé `.gitignore`
+- [X] Fait 3 commits (config, suivi, structure)
+- [X] Tous les dossiers créés (css/, js/, assets/, data/)
+- [X] Tous les fichiers vides créés
+- [X] (Optionnel) Projet connecté à GitHub
 
 Si c'est bon, tu peux passer à la **Phase 1 - Étape 1.1** ! 🚀
 
