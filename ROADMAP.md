@@ -442,7 +442,7 @@
 5. Demande de l'aide avec le contexte précis
 
 ### 🎮 Gamification
-- [ ] Phase 0 → Badge "Démarrage" 🏁
+- [X] Phase 0 → Badge "Démarrage" 🏁
 - [ ] Phase 1 → Badge "Designer" 🎨
 - [ ] Phase 2 → Badge "Authentificateur" 🔐
 - [ ] Phase 3 → Badge "Organisateur" 🔧

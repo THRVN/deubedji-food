@@ -4,7 +4,7 @@
 
 ---
 
-## 📅 SESSION #1 - [12/01/2026]
+## 📅 SESSION #1 - [1/01/2026]
 
 ### ⏱️ Timing
 - Heure de début : 23:30
@@ -109,7 +109,7 @@
 ## 🎯 OBJECTIFS HEBDOMADAIRES
 
 ### Semaine 1
-- [ ] Terminer Phase 0
+- [X] Terminer Phase 0
 - [ ] Terminer Phase 1
 - [ ] Avancer sur Phase 2
 

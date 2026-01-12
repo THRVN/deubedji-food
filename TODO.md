@@ -1,56 +1,62 @@
 # ✅ TODO - Deubedji-food
 
-> Mis à jour le : [Date à remplir]
+> Mis à jour le : 13/01/2026
 
 ---
 
 ## 🎯 TÂCHE EN COURS
 
-**[Étape X.X] Titre de l'étape**
-- Durée estimée : XX min
-- Démarré le : [Date et heure]
+**[Étape 1.1] HTML de base**
+- Durée estimée : 20 min
+- Démarré le : 13/01/2026
 - Statut : 🟡 En cours
 
 ### Actions à faire :
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Créer la structure HTML5 de base
+- [ ] Ajouter le <head> avec titre et meta
+- [ ] Créer un <header> avec le nom du site
+- [ ] Ajouter un <main> vide
+- [ ] Ajouter un <footer> simple
+- [ ] Commit : "Structure HTML de base"
 
 ### Fichiers concernés :
-- `nom-du-fichier.ext`
+- `index.html`
 
 ### Résultat attendu :
-Description du résultat
+La structure HTML 5 a été crée, un `<header>` a été créer avec le nom du site à l'intérieur.
+Un `<main>` a été ajouté et est présentement vide.
+Un `<footer>` simple a également été ajouté.
+Et pour terminer un commit & push a été fait
 
 ---
 
 ## 📋 3 PROCHAINES ÉTAPES
 
-### 1️⃣ [Étape X.X] Titre
-- Durée : XX min
-- Fichiers : `fichier.ext`
+### 1️⃣ [Étape 1.2] CSS Reset et variables
+- Durée : 15 min
+- Fichiers : `css/style.css`
 
-### 2️⃣ [Étape X.X] Titre
-- Durée : XX min
-- Fichiers : `fichier.ext`
+### 2️⃣ [Étape 1.3] Styliser le header
+- Durée : 20 min
+- Fichiers : `css/style.css`
 
-### 3️⃣ [Étape X.X] Titre
-- Durée : XX min
-- Fichiers : `fichier.ext`
+### 3️⃣ [Étape 1.4] Créer la zone de bienvenue
+- Durée : 25 min
+- Fichiers : `css/style.css`
 
 ---
 
 ## 🏆 DERNIÈRES VICTOIRES
 
-- ✅ [Étape X.X] Titre - [Date]
-- ✅ [Étape X.X] Titre - [Date]
-- ✅ [Étape X.X] Titre - [Date]
+- ✅ [Étape 0.1] Initialisation du projet - [12/01/2026]
+- ✅ [Étape 0.2] Créer les fichiers de suivi - [12/01/2026]
+- ✅ [Étape 0.3] Créer l'arborescence vide - [12/01/2026]
 
 ---
 
 ## 📊 PROGRESSION GLOBALE
 
-**Phase actuelle :** Phase X - Nom de la phase
+**Phase actuelle :** Phase 1 - PAGE D'ACCUEIL BASIQUE
 
 **Étapes complétées :** X / 67 (XX%)
 
