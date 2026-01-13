@@ -9,15 +9,16 @@
 **[Étape 1.1] HTML de base**
 - Durée estimée : 20 min
 - Démarré le : 13/01/2026
-- Statut : 🟡 En cours
+<!-- 🟢 Terminé, 🟡 En cours, 🔴 Bloqué -->
+- Statut : 🟢 Terminé
 
 ### Actions à faire :
-- [ ] Créer la structure HTML5 de base
-- [ ] Ajouter le <head> avec titre et meta
-- [ ] Créer un <header> avec le nom du site
-- [ ] Ajouter un <main> vide
-- [ ] Ajouter un <footer> simple
-- [ ] Commit : "Structure HTML de base"
+- [X] Créer la structure HTML5 de base
+- [X] Ajouter le <head> avec titre et meta
+- [X] Créer un <header> avec le nom du site
+- [X] Ajouter un <main> vide
+- [X] Ajouter un <footer> simple
+- [X] Commit : "Structure HTML de base"
 
 ### Fichiers concernés :
 - `index.html`
@@ -51,6 +52,7 @@ Et pour terminer un commit & push a été fait
 - ✅ [Étape 0.1] Initialisation du projet - [12/01/2026]
 - ✅ [Étape 0.2] Créer les fichiers de suivi - [12/01/2026]
 - ✅ [Étape 0.3] Créer l'arborescence vide - [12/01/2026]
+- ✅ [Étape 1.1] HTML de base - [13/01/2026]
 
 ---
 
@@ -58,9 +60,9 @@ Et pour terminer un commit & push a été fait
 
 **Phase actuelle :** Phase 1 - PAGE D'ACCUEIL BASIQUE
 
-**Étapes complétées :** X / 67 (XX%)
+**Étapes complétées :** 4 / 47 (8,5%)
 
-**Temps total investi :** Xh XXmin
+**Temps total investi :** 1h 16min
 
 ---
 
@@ -72,6 +74,6 @@ Espace pour noter des idées ou observations pendant la session actuelle.
 
 ## 🔄 DERNIÈRE MISE À JOUR
 
-- Date : [À remplir]
-- Étape terminée : [Numéro et titre]
-- Prochaine session prévue : [Date/heure ou "À définir"]
+- Date : 13/01/2026
+- Étape terminée : [Étape 1.1] HTML de base
+- Prochaine session prévue : À définir <!--[Date/heure ou "À définir"]-->

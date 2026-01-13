@@ -4,41 +4,46 @@
 
 ---
 
-## 📅 SESSION #1 - [1/01/2026]
+## 📅 SESSION #1 - [12/01/2026]
 
 ### ⏱️ Timing
 - Heure de début : 23:30
-- Heure de fin : 00:30
-- Durée effective : XX min
+- Heure de fin : 00:46
+- Durée effective : 1h16min
 
 ### 🎯 Objectif de la session
 [Étape 0.1] Initialisation du projet
 [Étape 0.2] Créer les fichiers de suivi
 [Étape 0.3] Créer l'arborescence vide
+[Étape 1.1] HTML de base
 
 ### ✅ Ce qui a été fait
-- Action 1 complétée
+<!-- - Action 1 complétée
 - Action 2 complétée
-- Problème résolu : ...
+- Problème résolu : ... -->
+- [Étape 0.1]
+- [Étape 0.2]
+- [Étape 0.3]
+- [Étape 1.1]
 
 ### 🎉 Victoires
 - Commit réalisé : "Message du commit"
 - Apprentissage : Ce que j'ai appris aujourd'hui
-- Satisfaction : Note de 1 à 5 : ⭐⭐⭐⭐⭐
+- Satisfaction : Note de 1 à 5 : ⭐⭐⭐
 
 ### 🧠 État mental
-- Concentration : 👍 Bonne / 👌 Moyenne / 👎 Difficile
-- Énergie : 🔋🔋🔋 (1 à 3 batteries)
-- Notes : Comment je me suis senti pendant la session
+- Concentration : 👍 Bonne / [👌 Moyenne] / 👎 Difficile
+- Énergie : [🔋🔋]🔋 (1 à 3 batteries)
+- Notes : Je me suis senti assez bien, disons que j'avais la tête un peu concentré mais pas en mode focus
 
 ### 📝 Notes techniques
-- Nouveaux concepts appris :
-- Commandes/code utiles :
-- Ressources consultées :
+- Nouveaux concepts appris : rien
+- Commandes/code utiles : emmet abreviation sur vscode ça aide beaucoup à aller plus vite dans le code
+- Ressources consultées : mdn
 
 ### 🔮 Prochaine session
-- Prévue pour : [Date/heure]
-- Prochaine étape : [Étape X.X]
+- Prévue pour : [13/01/2026-16h]
+- Prochaine étape : [Étape 1.2]
 
 ---
 
