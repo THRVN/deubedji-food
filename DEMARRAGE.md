@@ -139,7 +139,7 @@ Tu viens de recevoir tous les fichiers nécessaires pour démarrer ton projet De
 
 ## 🏆 TES BADGES À DÉBLOQUER
 
-- [ ] 🏁 **Démarrage** - Premiers commits fait
+- [X] 🏁 **Démarrage** - Premiers commits fait
 - [ ] 🎨 **Designer** - Page d'accueil stylisée
 - [ ] 🔐 **Authentificateur** - Système de compte OK
 - [ ] 🔧 **Organisateur** - Liste d'ustensiles fonctionnelle
